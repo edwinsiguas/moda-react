@@ -1,0 +1,122 @@
+{
+  "products": [
+    {
+      "name": "Blusa Elegance",
+      "price": 59.9,
+      "category": "Blusas",
+      "stock": 6,
+      "discount": 20,
+      "image": "https://leonisa.pe/cdn/shop/files/F6389_700_1200X1500_1.jpg?v=1777212736&width=320",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "name": "Pantalón Casual",
+      "price": 99.9,
+      "category": "Pantalones",
+      "stock": 10,
+      "discount": 15,
+      "image": "https://www.sevenseven.com/dw/image/v2/BHFM_PRD/on/demandware.static/-/Sites-storefront_catalog_sevenseven/default/dw3bd93dff/images/hi-res/Agosto_2024/Agosto_27/Pantalones-para-mujer-28071787-80487_1.jpg?sw=800&sh=960"
+    },
+    {
+      "id": "4",
+      "name": "Bolso Premium",
+      "price": 79.9,
+      "category": "Accesorios",
+      "stock": 15,
+      "discount": 0,
+      "image": "https://www.digital-peru.com/cdn/shop/files/13_800x.jpg?v=1720754975"
+    },
+    {
+      "id": "5",
+      "name": "Falda Primavera",
+      "price": 69.9,
+      "category": "Faldas",
+      "stock": 7,
+      "discount": 30,
+      "image": "https://www.dream-alcala.com/wp-content/uploads/2025/02/falda-estampada.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Blazer Chic",
+      "price": 149.9,
+      "category": "Blazers",
+      "stock": 5,
+      "discount": 10,
+      "image": "https://img.joomcdn.net/97cfc2c150098bf6372ae8f5dd9d513ac6d6a7cd_original.jpeg"
+    },
+    {
+      "id": "7",
+      "name": "Vestido Elegante",
+      "price": 119.9,
+      "category": "Vestidos",
+      "stock": 9,
+      "discount": 25,
+      "image": "https://media.falabella.com/falabellaPE/135742371_01/w=1500,h=1500,fit=cover"
+    },
+    {
+      "id": "8",
+      "name": "Tacones Clásicos",
+      "price": 139.9,
+      "category": "Calzado",
+      "stock": 6,
+      "discount": 0,
+      "image": "https://img.kwcdn.com/product/fancy/2f3e5f83-b5d1-4795-b803-837c6dff4ec3.jpg?imageMogr2/auto-orient%7CimageView2/2/w/800/q/70/format/webp"
+    },
+    {
+      "id": "9",
+      "name": "Blusa Casual",
+      "price": 54.9,
+      "category": "Blusas",
+      "stock": 14,
+      "discount": 5,
+      "image": "https://media.falabella.com/falabellaPE/883505011_1/w=1500,h=1500,fit=cover"
+    },
+    {
+      "id": "10",
+      "name": "Falda Midi",
+      "price": 74.9,
+      "category": "Faldas",
+      "stock": 11,
+      "discount": 0,
+      "image": "https://media.falabella.com/falabellaPE/21456112_2/w=1500,h=1500,fit=cover"
+    },
+    {
+      "id": "11",
+      "name": "Botines Urban",
+      "price": 159.9,
+      "category": "Calzado",
+      "stock": 4,
+      "discount": 18,
+      "image": "https://d3fvqmu2193zmz.cloudfront.net/items_2/uid_commerces.1/uid_items_2.2025042921533526405/500x500/6849948719667-Botin-Urbano-Mujer-Aysha10.webp"
+    },
+    {
+      "id": "12",
+      "name": "Cartera Luxury",
+      "price": 129.9,
+      "category": "Accesorios",
+      "stock": 8,
+      "discount": 12,
+      "image": "https://elbosqueperu.vtexassets.com/arquivos/ids/393306/292182122151a1___23ba95a631f79a1c21833bae3e62de57.jpg?v=638995904243230000"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "nombre": "Administrador",
+      "correo": "admin@modayestilo.com.pe",
+      "password": "Moda2026",
+      "rol": "admin",
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "nombre": "Edwin Siguaas",
+      "correo": "edwin@gmail.com",
+      "password": "edwin123",
+      "rol": "cliente",
+      "createdAt": "2026-06-30T20:11:23.789Z",
+      "id": "VtGecv4U3HI"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
