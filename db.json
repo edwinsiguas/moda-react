@@ -110,9 +110,17 @@
       "createdAt": "2026-01-01T00:00:00.000Z"
     },
     {
-      "nombre": "Edwin Siguaas",
+      "nombre": "Edwin Siguas",
       "correo": "edwin@gmail.com",
       "password": "edwin123",
+      "rol": "cliente",
+      "createdAt": "2026-06-30T20:11:23.789Z",
+      "id": "VtGecv4U3HI"
+    }
+        {
+      "nombre": "Luis Caja",
+      "correo": "luis@gmail.com",
+      "password": "luis123",
       "rol": "cliente",
       "createdAt": "2026-06-30T20:11:23.789Z",
       "id": "VtGecv4U3HI"
